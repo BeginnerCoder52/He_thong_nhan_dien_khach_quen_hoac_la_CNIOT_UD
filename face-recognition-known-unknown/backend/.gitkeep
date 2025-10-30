@@ -1,0 +1,3 @@
+# Trong backend/
+touch backend/uploads/.gitkeep
+touch backend/data/.gitkeep
